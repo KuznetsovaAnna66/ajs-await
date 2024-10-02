@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9oqa7ef21cn06isg?svg=true)](https://ci.appveyor.com/project/KuznetsovaAnna66/asj-promises)
-
 # Домашнее задание к лекции «Promises, async/await»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
